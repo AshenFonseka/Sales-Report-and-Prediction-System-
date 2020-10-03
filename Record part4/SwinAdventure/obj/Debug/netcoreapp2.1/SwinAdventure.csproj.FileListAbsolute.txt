@@ -1,0 +1,8 @@
+C:\Users\Adeepa\Desktop\SwinAdventure\SwinAdventure\obj\Debug\netcoreapp2.1\SwinAdventure.csprojAssemblyReference.cache
+C:\Users\Adeepa\Desktop\SwinAdventure\SwinAdventure\obj\Debug\netcoreapp2.1\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Adeepa\Desktop\SwinAdventure\SwinAdventure\obj\Debug\netcoreapp2.1\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Adeepa\Desktop\SwinAdventure\SwinAdventure\obj\Debug\netcoreapp2.1\SwinAdventure.AssemblyInfo.cs
+C:\Users\Adeepa\OneDrive - Swinburne University\Semester 2\Obeject Oriented Programming\week 4\4.2\SwinAdventure\SwinAdventure\obj\Debug\netcoreapp2.1\SwinAdventure.csprojAssemblyReference.cache
+C:\Users\Adeepa\OneDrive - Swinburne University\Semester 2\Obeject Oriented Programming\week 4\4.2\SwinAdventure\SwinAdventure\obj\Debug\netcoreapp2.1\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Adeepa\OneDrive - Swinburne University\Semester 2\Obeject Oriented Programming\week 4\4.2\SwinAdventure\SwinAdventure\obj\Debug\netcoreapp2.1\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Adeepa\OneDrive - Swinburne University\Semester 2\Obeject Oriented Programming\week 4\4.2\SwinAdventure\SwinAdventure\obj\Debug\netcoreapp2.1\SwinAdventure.AssemblyInfo.cs
